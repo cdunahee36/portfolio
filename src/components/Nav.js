@@ -16,6 +16,9 @@ function Nav() {
         <Link id="text" class="btn" to="/projects">
           Projects
         </Link>
+        <Link id="text" class="btn" to="/email">
+          Contact 
+        </Link>
       </section>
     </header>
   )

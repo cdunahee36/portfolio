@@ -47,11 +47,8 @@ function Biography() {
         <p id="secondary-text">
           My name is Caleb Dunahee, I live in a small town in central Illinois. I graduated from Prairie Central High School, where I attended many
           agriculture and industrial tech classes. I also took part in a computer programming class. After I graduated, I worked as a garage door
-          technician for ten months. Now I am currently attending a full stack coding bootcamp through Northwestern University, located in Evanston,
-          Illinois. Aside from working on homework and projects, I mainly play video games and workout. I have two older brothers, and am the youngest.
-          In 2009 I was diagnosed with Luekemia, I am doing great now! I have found designing web applications is very fun and also very challenging. At
-          times you want to give up, but luckily google is a thing. I'm am ready and very excited to start a professional career in web development and 
-          hope to stay in the industry for a long time! Feel free to contact me anytime by phone or through social media.
+          technician for ten months. I then enrolled in a Northwestern Coding Bootcamp, where I learned many needed skills in today's workforce.
+          I am now a certified Web developer, who is proficient in CSS, JavaScript and React.js. Feel free to contact me by any method provided, thanks!
         </p>
       </article>
     </div>

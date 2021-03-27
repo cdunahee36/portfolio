@@ -25,14 +25,14 @@ body {
 }
 
 #button-txt {
-  background-color: white;
-  color: #4c958a;
+  background-color: #438b87;
+  color: white;
   font-family: 'Quicksand', sans-serif;
   font-weight: bold;
 }
 
 #button-txt:hover {
-  background-color: #d3d3d3;
+  background-color: #014421;
 }
 
 #card1 {
@@ -65,8 +65,52 @@ body {
   margin-right: 40px;
 }
 
+#contact-input {
+  background-color: #014421;
+  border: 4px solid #438b87;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+  margin-top: 50px;
+  width: 400px;
+}
+
+#contact-input input {
+  border-radius: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#contact-input label {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  margin-left: 8px;
+  margin-top: 7px;
+}
+
 #dep-btn {
   margin-right: 50px;
+}
+
+#email-sub {
+  background-color: #438b87;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+#email-sub:hover {
+  background-color: green;
+}
+
+#email-msg {
+  border-radius: 5px;
+  margin-left: 6px;
+  margin-right: 6px;
 }
 
 .ec-box, .ec-box2 {
@@ -82,11 +126,11 @@ body {
 }
 
 .G1 {
-  color: white;
+  color: #438b87;
 }
 
 .G1:hover {
-  color: silver
+  color: #014421
 }
 
 .headbox-1 {
@@ -127,11 +171,11 @@ body {
 }
 
 .L1:hover {
-  color: silver;
+  color: #014421;
 }
 
 .L1, .R1 {
-  color: white;
+  color: #438b87;
   margin-top: 22px;
 }
 
@@ -178,7 +222,7 @@ body {
 }
 
 .pbox1, .pbox2 {
-  color: white;
+  color: #438b87;
   font-family: 'Quicksand', sans-serif;
   font-size: 20px;
   font-weight: bold;
@@ -188,8 +232,8 @@ body {
 }
 
 .personal-box1, .personal-box2 {
-  background-color: #438b87;
-  border: 2px solid white;
+  background-color: #ffffff;
+  border: 2px solid #438b87;
   border-radius: 10px;
   box-shadow: 5px 5px;
   display: flex;
@@ -200,8 +244,8 @@ body {
 }
 
 .personal-proj-box1 {
-  background-color: #438b87;
-  border: 2px solid white;
+  background-color: white;
+  border: 2px solid #438b87;
   border-radius: 10px;
   box-shadow: 5px 5px;
   display: flex;
@@ -228,7 +272,7 @@ body {
   border: 2px solid white;
   border-radius: 150px;
   box-shadow: 10px 10px;
-  height: 380px;
+  height: 300px;
   margin-top: 10px;
   width: 300px;
 }
@@ -254,14 +298,14 @@ body {
 }
 
 .proj-text {
-  color: white;
+  color: #438b87;
   font-family: 'Quicksand', sans-serif;
   font-weight: bold;
   text-align: center;
 }
 
 .R1:hover {
-  color: silver;
+  color: #014421;
 }
 
 #secondary-text {
@@ -340,7 +384,7 @@ body {
 }
 
 #text:hover {
-  background-color: 	#006400;
+  background-color: 	#014421;
 }
 
 

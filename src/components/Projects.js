@@ -6,7 +6,7 @@ export default function Projects() {
           <main class="personal-proj-box1">
               <content>
               <section class="headboxP-1">
-                  <h4 class="proj-text">Astro Mixologist</h4>
+                  <h4 class="proj-text">Astro Mixologist!</h4>
                   <p class="proj-text">Project #1</p>
               </section>
               <content class="proj-buttons">
@@ -24,7 +24,7 @@ export default function Projects() {
           <main class="personal-proj-box1">
               <content>
                   <section class="headboxP-1">
-                      <h4 class="proj-text">Wendi!</h4>
+                      <h4 class="proj-text">Wendi NoteTaker!</h4>
                       <p class="proj-text">Project #2</p>
                   </section>
                   <content class="proj-buttons">
@@ -42,15 +42,15 @@ export default function Projects() {
           <main class="personal-proj-box1">
               <content>
                   <section class="headboxP-1">
-                      <h4 class="proj-text">Password Generator</h4>
-                      <p class="proj-text">Assignment</p>
+                      <h4 class="proj-text">Soapbox Community!</h4>
+                      <p class="proj-text">Project #3</p>
                   </section>
                   <content class="proj-buttons">
                       <div id="dep-btn">
-                          <a href="https://cdunahee36.github.io/Password-Generator/" class="btn" id="button-txt">Deployed App</a>
+                          <a href="https://soapbox-app.herokuapp.com/" class="btn" id="button-txt">Deployed App</a>
                       </div>
                       <div>
-                          <a href="https://github.com/cdunahee36/Password-Generator" class="btn" id="button-txt">Repository</a>
+                          <a href="https://github.com/Chicago-Jr-Devs/Bootcamp_Capstone" class="btn" id="button-txt">Repository</a>
                       </div>
                   </content>
               </content>
@@ -96,12 +96,15 @@ export default function Projects() {
           <main class="personal-proj-box1">
               <content>
                   <section class="headboxP-1">
-                      <h4 class="proj-text">Reverse Engineering</h4>
-                      <p class="proj-text">Assignment</p>
+                      <h4 class="proj-text">Employee-Directory</h4>
+                      <p class="proj-text">Personal Project</p>
                   </section>
-                  <content class="code-wt">
+                  <content class="proj-buttons">
+                      <div id="dep-btn">
+                          <a href="https://cdunahee36.github.io/Employee-Directory/" class="btn" id="button-txt">Deployed App</a>
+                      </div>
                       <div>
-                          <a href="https://docs.google.com/document/d/1MgVQ2e1walhCGb-a40w2EIQaP3eNxoY59JsGGKf9dvs/edit?usp=sharing" class="btn" id="button-txt">Document</a>
+                          <a href="https://github.com/cdunahee36/Employee-Directory" class="btn" id="button-txt">Repository</a>
                       </div>
                   </content>
               </content>

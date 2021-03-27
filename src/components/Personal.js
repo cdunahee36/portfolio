@@ -1,4 +1,4 @@
-import portfolio from '../resume/CalebDunaheeResume - Google Docs.pdf'
+import portfolio from '../resume/Resume - Google Docs.pdf'
 
 export default function Personal() {
   return(
