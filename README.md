@@ -14,7 +14,8 @@ and read about me!
 
 # Screenshots
 
-![](Ss/home.png)
-![](Ss/about.png)
-![](Ss/personal.png)
-![](Ss/projects.png)
+![](Ss/Personal.png)
+![](Ss/Biography.png)
+![](Ss/Contact.png)
+![](Ss/Projects.png)
+![](Ss/Email.png)
